@@ -1,0 +1,50 @@
+1. Difference between HTTP1.1 vs HTTP2?
+
+Answer:
+	*Http1.1 have an 3TCP
+	*Http2 have an 1TCP
+	*Http1.1 low speed
+	*Http2 high speed compared to Http1.1
+
+2. http version history?
+
+Answer:
+	*HTTP (HyperText Transfer Protocol) is the protocol of the World Wide Web. 
+Developed by Tim Berners-Lee,
+
+			HTTP/0.9 – The one-line protocol
+					|
+			HTTP/1.0 – Building extensibility
+					|
+			HTTP/1.1 – The standardized protocol
+					|
+			HTTP/2 – A protocol for greater performance
+					|
+				Post-HTTP/2 evolution
+					|
+				HTTP/3 - HTTP over QUIC
+
+3. List 5 difference between Browser JS(console) vs Nodejs?
+
+Answer:
+	*To create an app to run the browser is completely different thing then create nodejs application.
+	*In javascript works an browser environment and node.js is an standalone environment.			
+	*Browser and node.js are used to writre javascript programming lalguage.
+	*In node.js we can use application inside the browser.
+
+4. what happens when you type a URL in the address bar in the browser?
+
+Answer:
+			it checks the browser cache
+					|(maintains a repository of DNS records)
+			it is the first place to run a DNS query
+					|
+		OS to fetch the record since the OS also maintains a cache of DNS records
+					|
+				it checks the router cache
+					|
+				ISP maintains its’ own DNS server
+					|
+				finding your requested URL
+				
+	
